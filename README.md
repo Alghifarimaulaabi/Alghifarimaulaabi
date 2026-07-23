@@ -59,9 +59,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Alghifarimaulaabi&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alghifarimaulaabi&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -71,7 +71,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=USERNAME_KAMU&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Alghifarimaulaabi&theme=tokyonight"/>
 
 </p>
 
@@ -81,7 +81,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME_KAMU&theme=algolia&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Alghifarimaulaabi&theme=algolia&row=1&column=6"/>
 
 </p>
 
@@ -91,7 +91,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_KAMU&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alghifarimaulaabi&theme=tokyo-night"/>
 
 </p>
 
@@ -113,19 +113,12 @@
 
 <p align="center">
 
-<a href="https://github.com/USERNAME_KAMU">
+<a href="https://github.com/UAlghifarimaulaabi">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </p>
 
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&label=Profile+Views&color=0e75b6&style=flat"/>
-
-</p>
 
 ---
 
