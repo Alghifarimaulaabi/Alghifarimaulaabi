@@ -94,7 +94,7 @@
 - 🔥 Prisma ORM
 - 🔐 Authentication
 - 💳 Midtrans Payment Gateway
-- ☁️ Deployment (Vercel)
+- ☁️ Deployment (Vercel, Netlify)
 
 ---
 
