@@ -50,7 +50,7 @@
 ## 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,docker" />
 </p>
 
 ---
